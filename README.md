@@ -10,7 +10,7 @@ Um aplicativo de gerador de paleta de cores.
 
 ## ✨ Demonstração    
 Veja abaixo um gif do projeto.</br>
-[![Image from Gyazo](https://i.gyazo.com/42acb5a77d38d161e67bf3d8063ee617.gif)](https://gyazo.com/42acb5a77d38d161e67bf3d8063ee617)
+[![Image from Gyazo](https://i.gyazo.com/9a127a8e2cbf074b5e42eeb73e78baa2.gif)](https://gyazo.com/9a127a8e2cbf074b5e42eeb73e78baa2)
 
 ## 🎯 Objetivo do projeto
 Projeto criado para treinamento de React.
@@ -28,7 +28,7 @@ Para que este rode em sua máquina, siga os passos abaixo:
 
 ```bash
 # Clone o repositório em alguma pasta em sua máquina
-$ git clone https://github.com/vinicyusAbreu/meus-artigos.git
+$ git clone https://github.com/vinicyusAbreu/random-colors.git
 
 # Entre no repositório
 $ cd meus-artigos
