@@ -31,7 +31,7 @@ Para que este rode em sua máquina, siga os passos abaixo:
 $ git clone https://github.com/vinicyusAbreu/random-colors.git
 
 # Entre no repositório
-$ cd meus-artigos
+$ cd random-colors
 
 #Instale as dependências digitando no termimal:
 $ npm install
